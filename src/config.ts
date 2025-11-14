@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/bhat0155",
   },
   aboutMe:
-    "I’m a recent Mobile Application Design & Development graduate from Algonquin College and a full-stack developer who loves building everything I can think of—from web apps to mobile experiences. Skilled in React, Next.js, Node.js, Prisma, and PostgreSQL, I focus on creating scalable, user-centered products with clean architecture and thoughtful design. I’m driven by curiosity, creativity, and the excitement of turning ideas into real, impactful solutions.",
+    "I’m a recent Mobile Application Design & Development graduate from Algonquin College and a full-stack developer who loves building everything from web apps to mobile experiences. Skilled in React, Next.js, Node.js, Prisma, and PostgreSQL, I focus on creating scalable, user-centered products with clean architecture and thoughtful design. I’m also experienced in mobile development with React Native and Flutter, and I work confidently with AWS services like S3, SES, and EC2 to deploy and scale applications. Driven by curiosity and creativity, I’m passionate about turning ideas into real, impactful solutions.",
   skills: [
     "JavaScript",
     "TypeScript",
