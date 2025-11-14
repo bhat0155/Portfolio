@@ -50,7 +50,7 @@ export const siteConfig = {
       name: "AI Model Playground",
       description:
         "A real-time AI comparison platform built with Next.js and NestJS, streaming responses from multiple models side-by-side with live metrics, performance insights, and cost tracking.",
-      link: "https://ai-model-playground.vercel.app",
+      link: "https://a-idifferentiator.vercel.app/",
       skills: [
         "Next.js",
         "NestJS",
@@ -68,10 +68,10 @@ export const siteConfig = {
       ],
     },
     {
-      name: "Netflix-GPT",
+      name: "Movie-Recomender",
       description:
-        "NetflixGPT — an AI-powered Netflix clone built with React, Tailwind, Firebase, Redux, and the TMDB + OpenAI APIs, enabling users to browse, search, and get GPT-driven movie recommendations with full authentication and responsive design.",
-      link: "https://netlflix-gpt.netlify.app/",
+        "An AI-powered Netflix clone built with React, Tailwind, Firebase, Redux, and the TMDB + OpenAI APIs, enabling users to browse, search, and get GPT-driven movie recommendations with full authentication and responsive design.",
+      link: "https://aimovierecommendation.netlify.app/",
       skills: [
         "React",
         "Redux Toolkit",
