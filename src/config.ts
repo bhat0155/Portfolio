@@ -46,7 +46,25 @@ export const siteConfig = {
         "NextAuth.js",
       ],
     },
-    {
+   
+{
+  name: "Receipt-Checker",
+  description:
+    "A full-stack tool where users upload a grocery receipt, the backend extracts items using Google Vision OCR + an LLM, then checks them against recent Canadian recall data. Built with React + Vite on the frontend and Node.js/Express, Prisma, and PostgreSQL on the backend, deployed on AWS EC2 with Nginx, HTTPS, PM2, caching, and automated cleanup.",
+  link: "https://receiptchecker.ca/",
+  skills: [
+    "React",
+    "TypeScript",
+    "Tailwind CSS",
+    "Express",
+    "Prisma ORM",
+    "PostgreSQL",
+    "Google Cloud Vision API (OCR)",
+    "OpenAI / LLM Integration",
+    "AWS",
+  ],
+},
+ {
       name: "AI Model Playground",
       description:
         "A real-time AI comparison platform built with Next.js and NestJS, streaming responses from multiple models side-by-side with live metrics, performance insights, and cost tracking.",
@@ -67,23 +85,7 @@ export const siteConfig = {
         "Render",
       ],
     },
-    {
-      name: "Movie-Recomender",
-      description:
-        "An AI-powered Netflix clone built with React, Tailwind, Firebase, Redux, and the TMDB + OpenAI APIs, enabling users to browse, search, and get GPT-driven movie recommendations with full authentication and responsive design.",
-      link: "https://aimovierecommendation.netlify.app/",
-      skills: [
-        "React",
-        "Redux Toolkit",
-        "Tailwind CSS",
-        "Firebase Authentication",
-        "TMDB API",
-        "OpenAI API",
-        "JavaScript (ES6+)",
-        "Vite",
-        "Responsive Design",
-      ],
-    },
+
   ],
   experience: [
     {
