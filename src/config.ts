@@ -66,27 +66,26 @@ export const siteConfig = {
 ],
 },
  {
-      name: "AI Model Playground",
-      description:
-        "A real-time AI comparison platform built with Next.js and NestJS, streaming responses from multiple models side-by-side with live metrics, performance insights, and cost tracking.",
-      link: "https://a-idifferentiator.vercel.app/",
-      skills: [
-        "Next.js",
-        "NestJS",
-        "TypeScript",
-        "Prisma",
-        "PostgreSQL",
-        "Server-Sent Events (SSE)",
-        "React",
-        "Tailwind CSS",
-        "Zustand",
-        "RxJS",
-        "Markdown Rendering",
-        "Vercel",
-        "Render",
-      ],
-    },
-
+name: "XEffect",
+description:
+"A 21-day habit tracker with a public progress page and a private dashboard, powered by Google OAuth, JWT cookies, a streak engine, and AI milestone messages for motivation and support.",
+link: "https://xeffect.ca/",
+skills: [
+"React",
+"TypeScript",
+"Tailwind CSS",
+"DaisyUI",
+"Express",
+"Node.js",
+"Prisma",
+"PostgreSQL",
+"Google OAuth",
+"JWT",
+"Swagger/OpenAPI",
+"Vercel",
+"Render",
+],
+}
   ],
   experience: [
     {
