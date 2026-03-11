@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/bhat0155",
   },
   aboutMe:
-    "I’m a recent Mobile Application Design & Development graduate from Algonquin College and a full-stack developer who loves building everything from web apps to mobile experiences. Skilled in React, Next.js, Node.js, Prisma, and PostgreSQL, I focus on creating scalable, user-centered products with clean architecture and thoughtful design. I’m also experienced in mobile development with React Native and Flutter, and I work confidently with AWS services like S3, SES, and EC2 to deploy and scale applications. Driven by curiosity and creativity, I’m passionate about turning ideas into real, impactful solutions.",
+    "I am a Full Stack Developer dedicated to building scalable, high-performance web and mobile applications. With a robust technical foundation in React, Next.js, Node.js, and PostgreSQL, I specialize in architecting user-centered products that balance clean code with thoughtful design. My expertise extends to mobile development using React Native and Flutter, ensuring seamless cross-platform experiences. Beyond application code, I bring a strong background in Cloud Infrastructure and DevOps. I am Microsoft Azure (AZ-900) certified and proficient in managing AWS services (S3, SES, EC2) to deploy and scale applications effectively. I am also experienced in implementing CI/CD pipelines, ensuring reliable, automated delivery of impactful software solutions. Driven by a commitment to technical excellence, I focus on turning complex requirements into streamlined, production-ready systems.",
   skills: [
     "JavaScript",
     "TypeScript",
@@ -68,7 +68,7 @@ export const siteConfig = {
  {
 name: "XEffect",
 description:
-"A 21-day habit tracker with a public progress page and a private dashboard, powered by Google OAuth, JWT cookies, a streak engine, and AI milestone messages for motivation and support.",
+"A 21-day habit tracker with a public progress page and a private dashboard, powered by Google OAuth, JWT cookies, a streak engine, and AI milestone messages for motivation and support1.",
 link: "https://xeffect.ca/",
 skills: [
 "React",
