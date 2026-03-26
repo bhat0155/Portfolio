@@ -1,4 +1,9 @@
-## License & Credits
+# Portfolio — ekamsingh.ca
 
-This project uses the [MIT License](LICENSE).  
-Originally built from [Ryan Fitzgerald](https://github.com/RyanFitzgerald/devportfolio).
+🌐 **Live:** https://www.ekamsingh.ca
+
+Personal portfolio showcasing full-stack development projects built with React, Node.js, PostgreSQL, AWS, and Azure.
+
+**Built with:** Astro, Tailwind CSS
+
+**License:** MIT — template originally from Ryan Fitzgerald, customized by Ekam Singh Bhatia
