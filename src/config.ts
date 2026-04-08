@@ -7,6 +7,7 @@ export const siteConfig = {
     email: "ekamsingh643@gmail.com",
     linkedin: "https://www.linkedin.com/in/ekam-singh-335840168/",
     github: "https://github.com/bhat0155",
+    blog: "https://www.ekamblogs.ca/",
   },
   aboutMe:
     "I am a Full Stack Developer dedicated to building scalable, high-performance web and mobile applications. With a robust technical foundation in React, Next.js, Node.js, and PostgreSQL, I specialize in architecting user-centered products that balance clean code with thoughtful design. My expertise extends to mobile development using React Native and Flutter, ensuring seamless cross-platform experiences. Beyond application code, I bring a strong background in Cloud Infrastructure and DevOps. I am Microsoft Azure (AZ-900) certified and proficient in managing AWS services (S3, SES, EC2) to deploy and scale applications effectively. I am also experienced in implementing CI/CD pipelines, ensuring reliable, automated delivery of impactful software solutions. Driven by a commitment to technical excellence, I focus on turning complex requirements into streamlined, production-ready systems.",
@@ -31,7 +32,7 @@ export const siteConfig = {
     {
       name: "Bhangrascape.ca",
       description:
-        "BhangraEscape.ca — a full-stack event and community platform built with Next.js, Prisma, and AWS, connecting dancers and organizers through interactive polls, media sharing, and event management.",
+        "Bhangrascape.ca — a full-stack event and community platform built with Next.js, Prisma, and AWS, connecting dancers and organizers through interactive polls, media sharing, and event management.",
       link: "https://bhangrascape.ca/",
       skills: [
         "Next.js",
