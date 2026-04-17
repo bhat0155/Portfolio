@@ -5,7 +5,7 @@ export const siteConfig = {
   accentColor: "#1d4ed8",
   social: {
     email: "ekamsingh643@gmail.com",
-    linkedin: "https://www.linkedin.com/in/ekam-singh-335840168/",
+    linkedin: "https://www.linkedin.com/in/ekam-bhatia-335840168/",
     github: "https://github.com/bhat0155",
     blog: "https://www.ekamblogs.ca/",
   },
