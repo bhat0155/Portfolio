@@ -69,7 +69,7 @@ export const siteConfig = {
  {
 name: "XEffect",
 description:
-"A 21-day habit tracker with a public progress page and a private dashboard, powered by Google OAuth, JWT cookies, a streak engine, and AI milestone messages for motivation and support1.",
+"A 21-day habit tracker with a public progress page and a private dashboard, powered by Google OAuth, JWT cookies, a streak engine, and AI milestone messages for motivation and support.",
 link: "https://xeffect.ca/",
 skills: [
 "React",
