@@ -101,13 +101,13 @@ skills: [
     },
     {
       company: "Amazon",
-      title: "Seller Support Associate",
+      title: "Technical Support Associate",
       dateRange: "Oct 2020 - Nov 2022",
       bullets: [
-        "Handled over 1,000 tax-related support cases for EU sellers with a 95% resolution rate, enhancing my analytical thinking and ability to troubleshoot complex problems under pressure.",
-        "Adapted quickly to advanced internal tools and workflows, strengthening my capacity to learn new technologies and development frameworks efficiently.",
-        "Authored SOP documentation that reduced new hire ramp-up time by 20%, demonstrating my commitment to clarity and maintainability — principles I apply when writing clean, well-documented code.",
-      ],
+        "HResolved 1,000+ technical support cases with a 95% resolution rate, applying structured troubleshooting and root-cause analysis under strict SLAs — habits that carry directly into debugging and incident response.",
+        "Adapted quickly to complex internal tools and workflows, strengthening my ability to ramp on new technologies and frameworks efficiently",
+        "Authored SOP documentation that cut new-hire ramp-up time by 20%, reflecting a focus on clarity and maintainability that I bring to writing clean, well-documented code."     
+       ],
     },
   ],
   education: [
