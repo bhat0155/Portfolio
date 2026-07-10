@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Ekam Bhatia",
-  title: "Full-Stack Developer",
+  title: "Cloud & DevOps Engineer | Full-Stack Developer",
   description: "Portfolio of Ekam Bhatia — Full-Stack Developer with cloud & DevOps depth",
   accentColor: "#1d4ed8",
   social: {
